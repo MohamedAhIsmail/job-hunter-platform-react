@@ -31,7 +31,7 @@ It was developed as part of the **ITI Projects (2025)** during the **ITI ICC Tra
 |----------------|---------------------------|
 | **Frontend**   | React 19, Vite            |
 | **Styling**    | MUI, Bootstrap            |
-| **State Mgmt** | Zustand                   |
+| **State Management** | Zustand                   |
 | **Forms**      | Formik + Yup              |
 | **Routing**    | React Router DOM v7       |
 | **Auth**       | JWT                       |
@@ -66,10 +66,11 @@ This repository is a clean version extracted from the original team repository t
 # 1. Clone the repository
 git clone https://github.com/MohamedAhIsmail/job-hunter-platform-react.git
 
+# 2.
 cd job-hunter-platform-react
 
-# 2. Install dependencies
+# 3. Install dependencies
 npm install
 
-# 3. Run development server
+# 4. Run development server
 npm run dev
